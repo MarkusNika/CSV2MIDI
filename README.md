@@ -245,9 +245,10 @@ Entwicklung im Team Mensch (Markus) + KI (Claude)
 | **Tests** | pytest Suite (12 Tests) | 2 min | 90 min |
 | **DAW Test** | Reaper Import Verifizierung | 3 min | 15 min |
 | **Dokumentation** | README, CONTRIBUTING, CHANGELOG | 5 min | 30 min |
-| **GESAMT** | **Production-Ready Application** | **~60 min** | **~525 min (8.75h)** |
+| **v1.0.1** | Comment Support Feature | 25 min | ~90 min |
+| **GESAMT** | **Production-Ready + Features** | **~85 min** | **~615 min (10.25h)** |
 
-**Produktivitätsfaktor: ~8.75x** 🚀
+**Produktivitätsfaktor: ~7.2x** 🚀
 
 *Zeitersparnis durch KI-Unterstützung: ~7.75 Stunden*
 

@@ -66,7 +66,7 @@ class CSV2MIDIMainWindow(QMainWindow):
 
     def init_ui(self):
         """UI initialisieren"""
-        self.setWindowTitle('CSV2MIDI Converter v1.0')
+        self.setWindowTitle('CSV2MIDI Converter v1.0.1')
         self.setGeometry(100, 100, 1000, 700)
 
         # Central Widget

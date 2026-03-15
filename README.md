@@ -87,6 +87,27 @@ Piano,1,G,4,100,1,3.0,1.0
 Bass,2,C,2,110,1,1.0,4.0
 ```
 
+### Kommentare in CSV-Dateien
+
+Ab Version 1.0.1 können CSV-Dateien Kommentare enthalten:
+
+```csv
+track_name,midi_channel,note,octave,velocity,bar,beat,duration
+# Intro (D-Moll, pp, Takte 1-6)
+Piano,1,D,4,70,1,1.0,1.0
+Piano,1,F,4,70,1,2.0,0.5
+
+# Verse 1 (D-Moll, p, Takte 7-14)
+Piano,1,F,4,75,7,1.0,1.0
+Piano,1,E,4,75,7,2.0,1.0
+```
+
+Kommentar-Regeln:
+
+Zeilen, die mit # beginnen, werden ignoriert
+Leerzeichen vor # sind erlaubt: # Kommentar
+Kommentare können zur Strukturierung und Dokumentation verwendet werden
+
 ### Spalten-Beschreibung
 
 | Spalte | Beschreibung | Wertebereich |

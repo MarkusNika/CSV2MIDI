@@ -2,7 +2,7 @@
 CSV2MIDI - CSV to MIDI Converter
 """
 
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 __author__ = 'Markus Nika & AI Team'
 
 from .core.parser import CSVParser

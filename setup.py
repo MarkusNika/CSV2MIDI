@@ -8,7 +8,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 setup(
     name='csv2midi',
-    version='1.0.0',
+    version='1.0.1',
     author='Markus Nika',
     author_email='your.email@example.com',
     description='CSV to MIDI Converter für Musiker und Komponisten',
